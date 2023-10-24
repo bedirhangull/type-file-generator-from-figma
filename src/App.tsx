@@ -32,7 +32,6 @@ const App = () => {
     }
   }
 
-
   return (
     <Router.Provider value={{path, setPath}}>
       {renderPage()}
