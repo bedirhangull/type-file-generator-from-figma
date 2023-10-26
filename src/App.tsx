@@ -1,6 +1,4 @@
 import { useState } from "react";
-import "./styles/style.css";
-
 import { Router } from "./store/context";
 
 //pages
